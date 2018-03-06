@@ -1,6 +1,6 @@
 # es6-exercises
 
-## Modify the following code to use var, const, and let appropriately. Replace the underlines with either 'var', 'const', or 'let'
+### Modify the following code to use var, const, and let appropriately. Replace the underlines with either 'var', 'const', or 'let'
 
 ```js
 ____ SPEED_OF_LIGHT = 299792458
@@ -16,7 +16,7 @@ for (____ i = 0; i < speedArray.length; i++) {
 }
 ```
 
-## What errors will the following code blocks produce? Why?
+### What errors will the following code blocks produce? Why?
 
 ```js
 const foo = 5;
@@ -44,7 +44,7 @@ delete farge.propX;        // Error?
 console.log(farge);
 ```
 
-## Rewrite the following functions using arrow functions
+### Rewrite the following functions using arrow functions
 
 ```js
 var adder = function(a, b) {
@@ -64,7 +64,7 @@ var cleanTheString = function(str) {
 }
 ```
 
-## Use Object Literal shorthand to clean up the following code
+### Use Object Literal shorthand to clean up the following code
 
 ```js
 var color = "blue";
@@ -78,7 +78,7 @@ var widget = {
 }
 ```
 
-## Use String Literals to make the following code more readable
+### Use String Literals to make the following code more readable
 
 ```js
 var name = "Paco";
@@ -88,7 +88,7 @@ var food = "steak";
 var bio = name + " is from " + location + " and really likes to eat " + food;
 ```
 
-## The blocks below represent two separate files. Write out the statements needed to use the function from the first file in the code in the second file
+### The blocks below represent two separate files. Write out the statements needed to use the function from the first file in the code in the second file
 
 ```js
 // This is in hello.js
