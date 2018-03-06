@@ -91,6 +91,7 @@ var bio = name + " is from " + location + " and really likes to eat " + food;
 ## The blocks below represent two separate files. Write out the statements needed to use the function from the first file in the code in the second file
 
 ```js
+// This is in hello.js
 var hello = function(name) {
   console.log(`Hello, ${name}!`);
 }
@@ -98,6 +99,7 @@ var hello = function(name) {
 
 ```
 ```js
+// This is in main.js
 // Add your code here...
 
 hello("Siouxsie");
